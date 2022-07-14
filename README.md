@@ -1,0 +1,2 @@
+# -Campfire-GitHub-Basecamp-Redbooth-Trac-Flowdock-Sprint.ly-Redmine-JabbR-Trello-
+در Campfire ، GitHub ، Basecamp ، Redbooth ، Trac ، Flowdock ، Sprint.ly ، Redmine ، JabbR ، Trello ، Qiita ، Zendesk ، Ruby China ، Grove ، Idobata ، NodeBla ، NodeBla ، NodeBla ، پشتیبانی می‌شوند . Ghost ، IRCCloud ، MyVideoGameList ، Sococo, Quip , Bonusly , Discourse , Ello , Twemoji Awesome , Got Chosen , Flow , ReadMe.io , esa , DBook , Groups.io , TeamworkChat , Let 's Chat , Buildkite , Usersnap , Discord , Statusbuck Yellow , _ _ ، Habitica و Mattermost
